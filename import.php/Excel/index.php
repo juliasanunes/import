@@ -7,17 +7,12 @@
 </head>
 <body>
 
-<h1> importar excel</h1>
+<h1>Importar Excel</h1>
 
 <form method="POST" action="processa.php" enctype="multipart/form-data">
   <label>Arquivo:</label>
   <input type="file" name="arquivo" id="arquivo"><br><br>
-
-
-</input type="submit" value="Enviar">
-
-
-
+  <input type="submit" value="Enviar">
 </form>
   
 </body>
